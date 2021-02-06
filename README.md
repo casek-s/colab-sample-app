@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * this is ks7
+
+* I used GitHub CLI
